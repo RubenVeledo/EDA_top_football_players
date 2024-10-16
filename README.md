@@ -69,7 +69,9 @@ A través de un **análisis exploratorio de datos (EDA)**, se evaluarán métric
 
 ### 🎁 Una pequeña muestra 🎁
 
-![Muestra](.data\src\notebooks\Wirtz vs Kroos.png)
+Aquí está la comparación entre Florian Wirtz y Toni Kroos:
+
+<img src="src/notebooks/Wirtz%20vs%20Kroos.png" alt="Muestra" width="400" />
 
 --------------------------------
 
